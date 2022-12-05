@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+#mySearch {
+    width: 100%;
+    font-size: 18px;
+    padding: 11px;
+    border: 1px solid black;
+  }
+  
+  #myMenu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #myMenu li a {
+    padding: 12px;
+    text-decoration:double;
+    color: white;
+    display: block
+  }
+  
+  #myMenu li a:hover {
+    background-color: black;
+  }
